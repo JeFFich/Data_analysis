@@ -10,5 +10,5 @@
    (ссылка на [Colab](https://colab.research.google.com/drive/17QSGkA97tARMxlPLlBpLnmazOJdjL74x?usp=sharing))
 3) ***Linear_forecast*** - построение модели линейной регрессии для прогнозирования
    (ссылка на [Colab](https://colab.research.google.com/drive/15WpjRf8kwiGLmNOedqdrVfugYC3Aa_s0?usp=sharing))
-
-*Задания еще добавляются*
+4) ***Prophet_forecast*** - построение Prophet модели
+   (ссылка на [Colab](https://colab.research.google.com/drive/1SrZDzeB3fpFv6hojXCGtzWTrlNqarDDh?usp=sharing))
