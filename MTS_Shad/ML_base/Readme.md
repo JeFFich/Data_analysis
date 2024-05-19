@@ -7,5 +7,7 @@
    (ссылка на [Colab](https://colab.research.google.com/drive/1BDi0rrZhbtwdMHcoHDvA58IBw_luFWLE?usp=sharing))
 3) *Boosting_building* - построение собственного бустинга над деревьями с использованием huber_loss
    (ссылка на [Colab](https://colab.research.google.com/drive/1gWQk2A5ckcGmh_CDFrj5mTBRM8IqqRqi?usp=sharing))
+4) *Сlustering* - кластеризация и понижение размерности
+   (ссылка на [Colab](https://colab.research.google.com/drive/1H9tnfQcu3jurkJzvxY3Ix_8oXiTny1l-?usp=sharing))
 
 *Задания еще будут добавляться*
