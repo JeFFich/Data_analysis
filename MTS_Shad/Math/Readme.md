@@ -9,5 +9,7 @@
    (ссылка на [Colab](https://colab.research.google.com/drive/1qQCiN0G0azb7iOUMxJHVzpl9_Q2P3i3L?usp=sharing))
 4) *Hypothesis_check_3* - проверка гипотез с применением статистических критериев согласованности (Data Quality)
    (ссылка на [Colab](https://colab.research.google.com/drive/1ep9391JFat_HkwU4pVw0JfiT4tgSna35?usp=sharing))
-5) *Final_task* - итоговое задание по всему блок; анализ датасета и построение регрессионной модели
+5) *AB_test* - дизайн A/B-теста на синтетических данных
+   (ссылка на [Colab](https://colab.research.google.com/drive/1v__c63zSW5GH2Z_DkZdHD7nd_H_F4DrF?usp=sharing))
+6) *Final_task* - итоговое задание по всему блок; анализ датасета и построение регрессионной модели
    (ссылка на [Colab](https://colab.research.google.com/drive/1cqRQe-HEEso7L4ffS1t9OTnoUqaIPjh8?usp=sharing))
