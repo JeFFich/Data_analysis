@@ -11,5 +11,5 @@
    (ссылка на [Colab](https://colab.research.google.com/drive/1H9tnfQcu3jurkJzvxY3Ix_8oXiTny1l-?usp=sharing))
 5) *Forecast* - классификация и регрессия на временных рядах
    (ссылка на [Colab](https://colab.research.google.com/drive/1hZp35WSHNB99nLSJ8f8QglFtAuFZgMvG?usp=sharing))
-
-*Задания еще будут добавляться*
+6) *ML_итог* - итоговое задание по всему блоку
+   (ссылка на [Colab](https://colab.research.google.com/drive/1-Gxo7nvxFWEjgF61d97JjsjicUjY4XYq?usp=sharing))
