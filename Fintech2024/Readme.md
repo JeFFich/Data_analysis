@@ -1,4 +1,4 @@
-# Задания с финтех-курса Тинькофф по риск-аналитике 2024
+# Задания с финтех-курса Тинькофф по риск-аналитике (+ проект с Школы Управления Рисками ВТБ)
 
 Нумерация заданий по порядку их выдачи:
 
@@ -10,3 +10,5 @@
    (ссылка на [Colab](https://colab.research.google.com/drive/1tP_hJiwjYiChwlcm3Zc6ZGeUorvfxIS0?usp=sharing))
 4) ***NPV*** - построение калькулятора для расчета NPV для кредита
    (ссылка на [Colab](https://colab.research.google.com/drive/1bh_R3jzrowO9JHrqVfCJRX_0WEtxcdU8?usp=sharing))
+5) ***SRM*** - построение и валидация скоринговой модели (проект ШУР)
+   (ссылка на [Colab](https://colab.research.google.com/drive/1-xvZUkOWQ_fu6qBA_FwrEd4z_S0x4GYK?usp=sharing))
